@@ -6,23 +6,27 @@ This project involves building a machine learning model to classify the species 
 
 The project is organized as follows:
 
-iris-flower-classification/
-│
-├── data/
-│   └── iris.csv
-├── notebooks/
-│   └── data_checking.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│   └── evaluate.py
-├── results/
-│   └── metrics.txt
-│   └── confusion_matrix.png
-│   └── Feature Importance.png
-├── README.md
-├── requirements.txt
-└── main.py
+iris-flower-classification/<br>
+│<br>
+├── data/<br>
+│   └── iris.csv<br>
+│<br>
+├── notebooks/<br>
+│   └── data_checking.ipynb<br>
+│<br>
+├── src/<br>
+│   ├── preprocessing.py<br>
+│   ├── model.py<br>
+│   └── evaluate.py<br>
+│<br>
+├── results/<br>
+│   ├── metrics.txt<br>
+│   ├── confusion_matrix.png<br>
+│   └── Feature Importance.png<br>
+│<br>
+├── README.md<br>
+├── requirements.txt<br>
+└── main.py<br>
 
 
 ## Requirements
